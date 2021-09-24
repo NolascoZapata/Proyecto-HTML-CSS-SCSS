@@ -13,7 +13,7 @@
     > Uso Bootstrap para dar formato a la aplicación.
 
 ## Aplicación en funcionamiento
-    ![me](https://github.com/NolascoZapata/Proyecto-HTML-CSS-SCSS/blob/master/NolascoZapata_Proyecto-HTML-CSS-SCSS_Babies.gif)
+    ![](https://github.com/NolascoZapata/Proyecto-HTML-CSS-SCSS/blob/master/NolascoZapata_Proyecto-HTML-CSS-SCSS_Babies.gif?raw=true)
 
 ### Autor
 
