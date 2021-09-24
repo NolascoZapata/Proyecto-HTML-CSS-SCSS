@@ -1,7 +1,5 @@
-## Babies
-    Babies es un e-commerce para la venta de ropa para bebés,niñas y niños. Esta compuesto por:
-
-    + vistas de listas de productos: vista general de productos con foto y detalles mínimos como nombre y precio del producto
+# Babies
+    Babies es un e-commerce para la venta de ropa para bebés,niñas y niños. Esta compuesto por vistas de listas de productos con foto y detalles mínimos como nombre y precio del producto
 
 ## Instalación
 
