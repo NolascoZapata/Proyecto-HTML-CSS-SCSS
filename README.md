@@ -10,11 +10,10 @@
 
 ## Dependencias
 
-    > Uso Bootstrap para dar formato a la aplicación.
+    Uso Bootstrap para dar formato a la aplicación.
 
 ## Aplicación en funcionamiento
-    ![](https://github.com/NolascoZapata/Proyecto-HTML-CSS-SCSS/blob/master/NolascoZapata_Proyecto-HTML-CSS-SCSS_Babies.gif?raw=true)
+    ![](https://github.com/NolascoZapata/Proyecto-HTML-CSS-SCSS/blob/master/NolascoZapata_Proyecto-HTML-CSS-SCSS_Babies.gif)
 
 ### Autor
-
     Nolasco Zapata Figueroa
